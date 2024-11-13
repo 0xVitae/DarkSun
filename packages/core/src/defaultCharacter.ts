@@ -1,12 +1,16 @@
-import { Character, ModelProviderName } from "./types.ts";
+import { Character, Clients, ModelProviderName } from "./types.ts";
 
 export const defaultCharacter: Character = {
     name: "Eliza",
     plugins: [],
-    clients: [],
+    clients: [Clients.DISCORD],
     modelProvider: ModelProviderName.OPENAI,
     settings: {
-        secrets: {},
+        secrets: {
+            openaiApiKey: process.env.OPENAI_API_KEY,
+            discordApplicationId: process.env.DISCORD_APPLICATION_ID,
+            discordApiToken: process.env.DISCORD_API_TOKEN,
+        },
         voice: {
             model: "en_US-hfc_female-medium",
         },
