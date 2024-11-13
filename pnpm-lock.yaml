@@ -17,6 +17,9 @@ importers:
       optional:
         specifier: ^0.1.4
         version: 0.1.4
+      pnpm:
+        specifier: ^9.12.3
+        version: 9.12.3
       sharp:
         specifier: ^0.33.5
         version: 0.33.5
@@ -9118,6 +9121,11 @@ packages:
   pngjs@2.3.1:
     resolution: {integrity: sha512-ITNPqvx+SSssNFOgHQzGG87HrqQ0g2nMSHc1jjU5Piq9xJEJ40fiFEPz0S5HSSXxBHrTnhaBHIayTO5aRfk2vw==}
     engines: {iojs: '>= 1.0.0', node: '>=0.10.0'}
+
+  pnpm@9.12.3:
+    resolution: {integrity: sha512-zOD53pxafJW++UQWnMXf6HQav7FFB4wNUIuGgFaEiofIHmJiRstglny9f9KabAYu9z/4QNlrPIbECsks9KgT7g==}
+    engines: {node: '>=18.12'}
+    hasBin: true
 
   points-on-curve@0.2.0:
     resolution: {integrity: sha512-0mYKnYYe9ZcqMCWhUjItv/oHjvgEsfKvnUTg8sAtnHr3GVy7rGkXCb6d5cSyqrWqL4k81b9CPg3urd+T7aop3A==}
@@ -22617,6 +22625,8 @@ snapshots:
   pngjs-nozlib@1.0.0: {}
 
   pngjs@2.3.1: {}
+
+  pnpm@9.12.3: {}
 
   points-on-curve@0.2.0: {}
 
