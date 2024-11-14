@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[packages/core/src/types.ts:507](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L507)
+[packages/core/src/types.ts:507](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L507)
 
 ## Methods
 
@@ -48,4 +48,4 @@
 
 #### Defined in
 
-[packages/core/src/types.ts:509](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L509)
+[packages/core/src/types.ts:509](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L509)

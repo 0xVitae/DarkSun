@@ -36,7 +36,7 @@ The AgentRuntime instance associated with this manager.
 
 #### Defined in
 
-[packages/core/src/memory.ts:35](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L35)
+[packages/core/src/memory.ts:35](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L35)
 
 ## Properties
 
@@ -52,7 +52,7 @@ The AgentRuntime instance associated with this manager.
 
 #### Defined in
 
-[packages/core/src/memory.ts:22](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L22)
+[packages/core/src/memory.ts:22](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L22)
 
 ***
 
@@ -68,7 +68,7 @@ The name of the database table this manager operates on.
 
 #### Defined in
 
-[packages/core/src/memory.ts:27](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L27)
+[packages/core/src/memory.ts:27](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L27)
 
 ## Methods
 
@@ -96,7 +96,7 @@ A Promise resolving to the memory object, potentially updated with an embedding 
 
 #### Defined in
 
-[packages/core/src/memory.ts:45](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L45)
+[packages/core/src/memory.ts:45](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L45)
 
 ***
 
@@ -142,7 +142,7 @@ A Promise resolving to an array of Memory objects.
 
 #### Defined in
 
-[packages/core/src/memory.ts:66](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L66)
+[packages/core/src/memory.ts:66](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L66)
 
 ***
 
@@ -164,7 +164,7 @@ A Promise resolving to an array of Memory objects.
 
 #### Defined in
 
-[packages/core/src/memory.ts:93](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L93)
+[packages/core/src/memory.ts:93](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L93)
 
 ***
 
@@ -214,7 +214,7 @@ A Promise resolving to an array of Memory objects that match the embedding.
 
 #### Defined in
 
-[packages/core/src/memory.ts:120](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L120)
+[packages/core/src/memory.ts:120](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L120)
 
 ***
 
@@ -246,7 +246,7 @@ A Promise that resolves when the operation completes.
 
 #### Defined in
 
-[packages/core/src/memory.ts:158](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L158)
+[packages/core/src/memory.ts:158](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L158)
 
 ***
 
@@ -272,7 +272,7 @@ A Promise that resolves when the operation completes.
 
 #### Defined in
 
-[packages/core/src/memory.ts:172](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L172)
+[packages/core/src/memory.ts:172](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L172)
 
 ***
 
@@ -294,7 +294,7 @@ A Promise that resolves when the operation completes.
 
 #### Defined in
 
-[packages/core/src/memory.ts:183](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L183)
+[packages/core/src/memory.ts:183](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L183)
 
 ***
 
@@ -322,7 +322,7 @@ A Promise that resolves when the operation completes.
 
 #### Defined in
 
-[packages/core/src/memory.ts:193](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L193)
+[packages/core/src/memory.ts:193](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L193)
 
 ***
 
@@ -350,7 +350,7 @@ A Promise that resolves when the operation completes.
 
 #### Defined in
 
-[packages/core/src/memory.ts:205](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L205)
+[packages/core/src/memory.ts:205](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L205)
 
 ***
 
@@ -382,4 +382,4 @@ A Promise resolving to the count of memories.
 
 #### Defined in
 
-[packages/core/src/memory.ts:218](https://github.com/ai16z/eliza/blob/main/packages/core/src/memory.ts#L218)
+[packages/core/src/memory.ts:218](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/memory.ts#L218)

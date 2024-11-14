@@ -10,7 +10,7 @@
 
 #### Defined in
 
-[packages/core/src/types.ts:321](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L321)
+[packages/core/src/types.ts:321](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L321)
 
 ***
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[packages/core/src/types.ts:322](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L322)
+[packages/core/src/types.ts:322](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L322)
 
 ***
 
@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[packages/core/src/types.ts:323](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L323)
+[packages/core/src/types.ts:323](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L323)
 
 ***
 
@@ -40,4 +40,4 @@
 
 #### Defined in
 
-[packages/core/src/types.ts:324](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L324)
+[packages/core/src/types.ts:324](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L324)

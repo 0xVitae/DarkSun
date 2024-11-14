@@ -12,7 +12,7 @@ Represents an example of content, typically used for demonstrating or testing pu
 
 #### Defined in
 
-[packages/core/src/types.ts:25](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L25)
+[packages/core/src/types.ts:25](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L25)
 
 ***
 
@@ -22,4 +22,4 @@ Represents an example of content, typically used for demonstrating or testing pu
 
 #### Defined in
 
-[packages/core/src/types.ts:26](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L26)
+[packages/core/src/types.ts:26](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L26)

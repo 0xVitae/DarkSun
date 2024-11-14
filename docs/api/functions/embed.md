@@ -22,4 +22,4 @@ The embedding of the input.
 
 ## Defined in
 
-[packages/core/src/embedding.ts:88](https://github.com/ai16z/eliza/blob/main/packages/core/src/embedding.ts#L88)
+[packages/core/src/embedding.ts:88](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/embedding.ts#L88)

@@ -12,7 +12,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:520](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L520)
+[packages/core/src/types.ts:520](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L520)
 
 ***
 
@@ -22,7 +22,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:521](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L521)
+[packages/core/src/types.ts:521](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L521)
 
 ***
 
@@ -32,7 +32,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:522](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L522)
+[packages/core/src/types.ts:522](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L522)
 
 ***
 
@@ -42,7 +42,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:523](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L523)
+[packages/core/src/types.ts:523](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L523)
 
 ***
 
@@ -52,7 +52,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:524](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L524)
+[packages/core/src/types.ts:524](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L524)
 
 ***
 
@@ -62,7 +62,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:525](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L525)
+[packages/core/src/types.ts:525](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L525)
 
 ***
 
@@ -72,7 +72,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:526](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L526)
+[packages/core/src/types.ts:526](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L526)
 
 ***
 
@@ -82,7 +82,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:527](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L527)
+[packages/core/src/types.ts:527](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L527)
 
 ***
 
@@ -92,7 +92,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:528](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L528)
+[packages/core/src/types.ts:528](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L528)
 
 ***
 
@@ -102,7 +102,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:530](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L530)
+[packages/core/src/types.ts:530](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L530)
 
 ***
 
@@ -112,7 +112,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:531](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L531)
+[packages/core/src/types.ts:531](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L531)
 
 ***
 
@@ -122,7 +122,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:532](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L532)
+[packages/core/src/types.ts:532](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L532)
 
 ***
 
@@ -132,7 +132,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:534](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L534)
+[packages/core/src/types.ts:534](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L534)
 
 ## Methods
 
@@ -150,7 +150,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:535](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L535)
+[packages/core/src/types.ts:535](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L535)
 
 ***
 
@@ -168,7 +168,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:537](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L537)
+[packages/core/src/types.ts:537](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L537)
 
 ***
 
@@ -190,7 +190,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:539](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L539)
+[packages/core/src/types.ts:539](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L539)
 
 ***
 
@@ -208,7 +208,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:541](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L541)
+[packages/core/src/types.ts:541](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L541)
 
 ***
 
@@ -226,7 +226,7 @@ Properties
 
 #### Defined in
 
-[packages/core/src/types.ts:543](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L543)
+[packages/core/src/types.ts:543](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L543)
 
 ***
 
@@ -242,7 +242,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:546](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L546)
+[packages/core/src/types.ts:546](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L546)
 
 ***
 
@@ -266,7 +266,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:547](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L547)
+[packages/core/src/types.ts:547](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L547)
 
 ***
 
@@ -288,7 +288,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:553](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L553)
+[packages/core/src/types.ts:553](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L553)
 
 ***
 
@@ -308,7 +308,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:558](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L558)
+[packages/core/src/types.ts:558](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L558)
 
 ***
 
@@ -332,7 +332,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:559](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L559)
+[packages/core/src/types.ts:559](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L559)
 
 ***
 
@@ -350,7 +350,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:565](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L565)
+[packages/core/src/types.ts:565](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L565)
 
 ***
 
@@ -376,7 +376,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:566](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L566)
+[packages/core/src/types.ts:566](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L566)
 
 ***
 
@@ -396,7 +396,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:573](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L573)
+[packages/core/src/types.ts:573](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L573)
 
 ***
 
@@ -414,7 +414,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:574](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L574)
+[packages/core/src/types.ts:574](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L574)
 
 ***
 
@@ -434,7 +434,7 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:575](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L575)
+[packages/core/src/types.ts:575](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L575)
 
 ***
 
@@ -452,4 +452,4 @@ Methods
 
 #### Defined in
 
-[packages/core/src/types.ts:579](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L579)
+[packages/core/src/types.ts:579](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L579)

@@ -79,7 +79,7 @@ Custom fetch function to use for making requests.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:192](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L192)
+[packages/core/src/runtime.ts:192](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L192)
 
 ## Properties
 
@@ -95,7 +95,7 @@ The ID of the agent
 
 #### Defined in
 
-[packages/core/src/runtime.ts:59](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L59)
+[packages/core/src/runtime.ts:59](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L59)
 
 ***
 
@@ -111,7 +111,7 @@ The base URL of the server where the agent's requests are processed.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:63](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L63)
+[packages/core/src/runtime.ts:63](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L63)
 
 ***
 
@@ -127,7 +127,7 @@ The database adapter used for interacting with the database.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:68](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L68)
+[packages/core/src/runtime.ts:68](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L68)
 
 ***
 
@@ -143,7 +143,7 @@ Authentication token used for securing requests.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:73](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L73)
+[packages/core/src/runtime.ts:73](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L73)
 
 ***
 
@@ -159,7 +159,7 @@ Custom actions that the agent can perform.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:78](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L78)
+[packages/core/src/runtime.ts:78](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L78)
 
 ***
 
@@ -175,7 +175,7 @@ Evaluators used to assess and guide the agent's responses.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:83](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L83)
+[packages/core/src/runtime.ts:83](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L83)
 
 ***
 
@@ -191,7 +191,7 @@ Context providers used to provide context for message generation.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:88](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L88)
+[packages/core/src/runtime.ts:88](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L88)
 
 ***
 
@@ -207,7 +207,7 @@ The model to use for generateText.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:93](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L93)
+[packages/core/src/runtime.ts:93](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L93)
 
 ***
 
@@ -242,7 +242,7 @@ Some environments may not have access to the global fetch function and need a cu
 
 #### Defined in
 
-[packages/core/src/runtime.ts:99](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L99)
+[packages/core/src/runtime.ts:99](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L99)
 
 ***
 
@@ -258,7 +258,7 @@ The character to use for the agent
 
 #### Defined in
 
-[packages/core/src/runtime.ts:104](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L104)
+[packages/core/src/runtime.ts:104](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L104)
 
 ***
 
@@ -274,7 +274,7 @@ Store messages that are sent and received by the agent.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:109](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L109)
+[packages/core/src/runtime.ts:109](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L109)
 
 ***
 
@@ -290,7 +290,7 @@ Store and recall descriptions of users based on conversations.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:114](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L114)
+[packages/core/src/runtime.ts:114](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L114)
 
 ***
 
@@ -306,7 +306,7 @@ Manage the creation and recall of static information (documents, historical game
 
 #### Defined in
 
-[packages/core/src/runtime.ts:119](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L119)
+[packages/core/src/runtime.ts:119](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L119)
 
 ***
 
@@ -318,7 +318,7 @@ Hold large documents that can be referenced
 
 #### Defined in
 
-[packages/core/src/runtime.ts:124](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L124)
+[packages/core/src/runtime.ts:124](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L124)
 
 ***
 
@@ -330,7 +330,7 @@ Searchable document fragments
 
 #### Defined in
 
-[packages/core/src/runtime.ts:129](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L129)
+[packages/core/src/runtime.ts:129](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L129)
 
 ***
 
@@ -344,7 +344,7 @@ Searchable document fragments
 
 #### Defined in
 
-[packages/core/src/runtime.ts:131](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L131)
+[packages/core/src/runtime.ts:131](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L131)
 
 ***
 
@@ -354,7 +354,7 @@ Searchable document fragments
 
 #### Defined in
 
-[packages/core/src/runtime.ts:132](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L132)
+[packages/core/src/runtime.ts:132](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L132)
 
 ## Methods
 
@@ -376,7 +376,7 @@ Searchable document fragments
 
 #### Defined in
 
-[packages/core/src/runtime.ts:134](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L134)
+[packages/core/src/runtime.ts:134](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L134)
 
 ***
 
@@ -398,7 +398,7 @@ Searchable document fragments
 
 #### Defined in
 
-[packages/core/src/runtime.ts:149](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L149)
+[packages/core/src/runtime.ts:149](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L149)
 
 ***
 
@@ -424,7 +424,7 @@ Searchable document fragments
 
 #### Defined in
 
-[packages/core/src/runtime.ts:153](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L153)
+[packages/core/src/runtime.ts:153](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L153)
 
 ***
 
@@ -446,7 +446,7 @@ Searchable document fragments
 
 #### Defined in
 
-[packages/core/src/runtime.ts:161](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L161)
+[packages/core/src/runtime.ts:161](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L161)
 
 ***
 
@@ -468,7 +468,7 @@ Searchable document fragments
 
 #### Defined in
 
-[packages/core/src/runtime.ts:372](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L372)
+[packages/core/src/runtime.ts:372](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L372)
 
 ***
 
@@ -490,7 +490,7 @@ The number of recent messages to be kept in memory.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:394](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L394)
+[packages/core/src/runtime.ts:394](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L394)
 
 ***
 
@@ -516,7 +516,7 @@ The action to register.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:402](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L402)
+[packages/core/src/runtime.ts:402](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L402)
 
 ***
 
@@ -538,7 +538,7 @@ The evaluator to register.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:411](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L411)
+[packages/core/src/runtime.ts:411](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L411)
 
 ***
 
@@ -560,7 +560,7 @@ The context provider to register.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:419](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L419)
+[packages/core/src/runtime.ts:419](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L419)
 
 ***
 
@@ -592,7 +592,7 @@ The message to process.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:428](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L428)
+[packages/core/src/runtime.ts:428](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L428)
 
 ***
 
@@ -628,7 +628,7 @@ The results of the evaluation.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:501](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L501)
+[packages/core/src/runtime.ts:501](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L501)
 
 ***
 
@@ -660,7 +660,7 @@ An error if the participant cannot be added.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:572](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L572)
+[packages/core/src/runtime.ts:572](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L572)
 
 ***
 
@@ -696,7 +696,7 @@ The user name to ensure the existence of.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:588](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L588)
+[packages/core/src/runtime.ts:588](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L588)
 
 ***
 
@@ -720,7 +720,7 @@ The user name to ensure the existence of.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:608](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L608)
+[packages/core/src/runtime.ts:608](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L608)
 
 ***
 
@@ -750,7 +750,7 @@ The user name to ensure the existence of.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:619](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L619)
+[packages/core/src/runtime.ts:619](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L619)
 
 ***
 
@@ -781,7 +781,7 @@ An error if the room cannot be created.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:655](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L655)
+[packages/core/src/runtime.ts:655](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L655)
 
 ***
 
@@ -811,7 +811,7 @@ The state of the agent.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:668](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L668)
+[packages/core/src/runtime.ts:668](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L668)
 
 ***
 
@@ -833,4 +833,4 @@ The state of the agent.
 
 #### Defined in
 
-[packages/core/src/runtime.ts:1101](https://github.com/ai16z/eliza/blob/main/packages/core/src/runtime.ts#L1101)
+[packages/core/src/runtime.ts:1101](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/runtime.ts#L1101)

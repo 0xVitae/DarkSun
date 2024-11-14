@@ -24,4 +24,4 @@ Represents the type of a handler function, which takes a runtime instance, a mes
 
 ## Defined in
 
-[packages/core/src/types.ts:188](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L188)
+[packages/core/src/types.ts:188](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L188)

@@ -16,4 +16,4 @@
 
 ## Defined in
 
-[packages/core/src/embedding.ts:149](https://github.com/ai16z/eliza/blob/main/packages/core/src/embedding.ts#L149)
+[packages/core/src/embedding.ts:149](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/embedding.ts#L149)
