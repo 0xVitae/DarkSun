@@ -76,4 +76,4 @@
 
 ## Defined in
 
-[packages/core/src/types.ts:82](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L82)
+[packages/core/src/types.ts:82](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L82)

@@ -12,7 +12,7 @@ Represents a goal, which is a higher-level aim composed of one or more objective
 
 #### Defined in
 
-[packages/core/src/types.ts:66](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L66)
+[packages/core/src/types.ts:66](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L66)
 
 ***
 
@@ -22,7 +22,7 @@ Represents a goal, which is a higher-level aim composed of one or more objective
 
 #### Defined in
 
-[packages/core/src/types.ts:67](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L67)
+[packages/core/src/types.ts:67](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L67)
 
 ***
 
@@ -32,7 +32,7 @@ Represents a goal, which is a higher-level aim composed of one or more objective
 
 #### Defined in
 
-[packages/core/src/types.ts:68](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L68)
+[packages/core/src/types.ts:68](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L68)
 
 ***
 
@@ -42,7 +42,7 @@ Represents a goal, which is a higher-level aim composed of one or more objective
 
 #### Defined in
 
-[packages/core/src/types.ts:69](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L69)
+[packages/core/src/types.ts:69](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L69)
 
 ***
 
@@ -52,7 +52,7 @@ Represents a goal, which is a higher-level aim composed of one or more objective
 
 #### Defined in
 
-[packages/core/src/types.ts:70](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L70)
+[packages/core/src/types.ts:70](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L70)
 
 ***
 
@@ -62,4 +62,4 @@ Represents a goal, which is a higher-level aim composed of one or more objective
 
 #### Defined in
 
-[packages/core/src/types.ts:71](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L71)
+[packages/core/src/types.ts:71](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L71)

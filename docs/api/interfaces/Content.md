@@ -16,7 +16,7 @@ Represents the content of a message, including its main text (`content`), any as
 
 #### Defined in
 
-[packages/core/src/types.ts:12](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L12)
+[packages/core/src/types.ts:12](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L12)
 
 ***
 
@@ -26,7 +26,7 @@ Represents the content of a message, including its main text (`content`), any as
 
 #### Defined in
 
-[packages/core/src/types.ts:13](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L13)
+[packages/core/src/types.ts:13](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L13)
 
 ***
 
@@ -36,7 +36,7 @@ Represents the content of a message, including its main text (`content`), any as
 
 #### Defined in
 
-[packages/core/src/types.ts:14](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L14)
+[packages/core/src/types.ts:14](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L14)
 
 ***
 
@@ -46,7 +46,7 @@ Represents the content of a message, including its main text (`content`), any as
 
 #### Defined in
 
-[packages/core/src/types.ts:15](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L15)
+[packages/core/src/types.ts:15](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L15)
 
 ***
 
@@ -56,7 +56,7 @@ Represents the content of a message, including its main text (`content`), any as
 
 #### Defined in
 
-[packages/core/src/types.ts:16](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L16)
+[packages/core/src/types.ts:16](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L16)
 
 ***
 
@@ -66,4 +66,4 @@ Represents the content of a message, including its main text (`content`), any as
 
 #### Defined in
 
-[packages/core/src/types.ts:17](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L17)
+[packages/core/src/types.ts:17](https://github.com/0xVitae/DarkSun/blob/main/packages/core/src/types.ts#L17)
